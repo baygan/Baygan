@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<BConfig>
+ <BExpressions>
+   <!-- Specifies which Parser implementation shoudl be used-->
+   <Component>
+    <ExpName>BParser</ExpName>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which OptimizationLayer implementation shoudl be used-->
+   <Component>
+    <Name>BOptimizationLayer</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which Executor implementation shoudl be used-->
+   <Component>
+    <Name>BExecutor</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which SecurityManger implementation shoudl be used-->
+   <Component>
+    <Name>BSecurityManager</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which TableManager implementation shoudl be used-->
+   <Component>
+    <Name>BTableManager</Name>
+    <Class></Class>
+   </Component>
+   <Component>
+    <Name>BAccessLayer</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which AccessLayer implementation shoudl be used-->
+   <Component>
+    <Name>BAccessLayer</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which BackupManager implementation shoudl be used-->
+   <Component>
+    <Name>BBackupManager</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which BufferManager implementation shoudl be used-->
+   <Component>
+    <Name>BBufferManager</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which LockManager implementation shoudl be used-->
+   <Component>
+    <Name>BLockManager</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which StorageManager implementation shoudl be used-->
+   <Component>
+    <Name>BStorageManager</Name>
+    <Class></Class>
+   </Component>
+   <!-- Specifies which ParseNodeFactory implementation shoudl be used-->
+   <Component>
+    <Name>BParseNodeFactory</Name>
+    <Class></Class>
+   </Component>
+ </BExpressions>
+</BConfig>
+<!--
+<Argument>
+    <Arg_Name></Arg_Name>
+    <Arg_Class></Arg_Class>
+    <Arg_Value></Arg_Value>
+    </Argument>
+   -->

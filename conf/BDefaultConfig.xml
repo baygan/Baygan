@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<BConfig>
+   <!-- Specifies which Parser implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BParser</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which OptimizationLayer implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BOptimizationLayer</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which Executor implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BExecutor</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which SecurityManger implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BSecurityManager</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which TableManager implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BTableManager</Name>
+    <Class></Class>
+   </Config>
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BAccessLayer</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which AccessLayer implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BAccessLayer</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which BackupManager implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BBackupManager</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which BufferManager implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BBufferManager</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which LockManager implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BLockManager</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which StorageManager implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BStorageManager</Name>
+    <Class></Class>
+   </Config>
+   <!-- Specifies which ParseNodeFactory implementation shoudl be used-->
+   <Config>
+    <Type>ComponentClass</Type>
+    <Name>BParseNodeFactory</Name>
+    <Class></Class>
+   </Config>
+</BConfig>
